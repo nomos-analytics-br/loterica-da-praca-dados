@@ -1,5 +1,5 @@
 {
  "v": 1,
- "conteudo": "{\"atualizado\":\"2026-11-27T08:00:07-03:00\",\"vendas\":[{\"dias\":[1,2,3,4,5],\"de\":\"08:00\",\"ate\":\"23:00\"},{\"dias\":[6],\"de\":\"08:00\",\"ate\":\"23:00\"}],\"atendimento\":[{\"dias\":[1,2,3,4,5],\"de\":\"08:00\",\"ate\":\"23:00\"},{\"dias\":[6],\"de\":\"08:00\",\"ate\":\"23:00\"}],\"boloes\":[{\"id\":\"BSMWY06F23\",\"jogo\":\"virada\",\"titulo\":\"bolao mega virada 2026\",\"concurso\":\"3100\",\"sorteio\":\"2027-01-01\",\"cota\":10.12,\"cotasTotal\":8,\"cotasRestantes\":6,\"destaque\":true,\"info\":\"\",\"status\":\"aberto\"}],\"telegram\":\"BoloesLotBOT\",\"whatsapp\":\"5575998212694\"}",
- "assinatura": "3p1Do1ugjtds4DxC7KUjGbDVE1sTsVeX9IXf3IBD1piZbr+Y9uEDxX3vEW+F5aqE1oYIljIAFFIdWbX2smRTsw=="
+ "conteudo": "{\"atualizado\":\"2026-11-27T08:03:49-03:00\",\"vendas\":[{\"dias\":[1,2,3,4,5],\"de\":\"08:00\",\"ate\":\"23:00\"},{\"dias\":[6],\"de\":\"08:00\",\"ate\":\"23:00\"}],\"atendimento\":[{\"dias\":[1,2,3,4,5],\"de\":\"08:00\",\"ate\":\"23:00\"},{\"dias\":[6],\"de\":\"08:00\",\"ate\":\"23:00\"}],\"boloes\":[{\"id\":\"BSMWY06F23\",\"jogo\":\"virada\",\"titulo\":\"bolao mega virada 2026\",\"concurso\":\"3100\",\"sorteio\":\"2027-01-01\",\"cota\":10.12,\"cotasTotal\":8,\"cotasRestantes\":5,\"destaque\":true,\"info\":\"\",\"status\":\"aberto\"}],\"telegram\":\"BoloesLotBOT\",\"whatsapp\":\"5575998212694\"}",
+ "assinatura": "g6qO1Lyh4MnM9Iya6p6A4jEMSN3GubvcpY1vffnKpOFYkqasCds9unXvyCs5WgBVGSzvhpz+0xYOn/lYPtUq4A=="
 }
